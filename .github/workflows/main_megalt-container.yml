@@ -31,7 +31,7 @@ jobs:
       with:
         push: true
         tags: index.docker.io/${{ secrets.AzureAppService_ContainerUsername_7bce56d981b74844bbcf9203ba79b99a }}/megalt-api-training:${{ github.sha }}
-        file: ./Dockerfile
+        file: ./MegaLTAPI1/Dockerfile
 
   deploy:
     runs-on: ubuntu-latest
