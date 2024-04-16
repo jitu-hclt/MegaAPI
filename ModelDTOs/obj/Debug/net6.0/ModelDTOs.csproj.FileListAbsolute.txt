@@ -1,0 +1,11 @@
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/bin/Debug/net6.0/ModelDTOs.deps.json
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/bin/Debug/net6.0/ModelDTOs.dll
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/bin/Debug/net6.0/ModelDTOs.pdb
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/ModelDTOs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/ModelDTOs.AssemblyInfoInputs.cache
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/ModelDTOs.AssemblyInfo.cs
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/ModelDTOs.csproj.CoreCompileInputs.cache
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/ModelDTOs.dll
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/refint/ModelDTOs.dll
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/ModelDTOs.pdb
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/Debug/net6.0/ref/ModelDTOs.dll

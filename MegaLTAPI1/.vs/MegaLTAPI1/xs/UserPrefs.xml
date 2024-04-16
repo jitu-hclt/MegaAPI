@@ -1,0 +1,79 @@
+﻿<Properties StartupConfiguration="{C8106EB6-90B9-4765-9AFC-C315D8E40281}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MegaLTAPI1 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DALayer/SeedDatabase.cs">
+    <Files>
+      <File FileName="Controllers/TokenGeneratorController.cs" Line="1" Column="1" />
+      <File FileName="../DALayer/ApplicationDbContext.cs" />
+      <File FileName="MegaLTAPI1.csproj" />
+      <File FileName="Program.cs" Line="99" Column="37" />
+      <File FileName="appsettings.json" />
+      <File FileName="../BLLayer/Configure.cs" Line="14" Column="50" />
+      <File FileName="../BLLayer/MappingConfigurations/GradeProfile.cs" Line="11" Column="3" />
+      <File FileName="../DALayer/Repositories/IRepository.cs" />
+      <File FileName="../DALayer/Repositories/Repository.cs" />
+      <File FileName="../DALayer/RepositoryUOW/UnitOfWork.cs" />
+      <File FileName="../DALayer/SeedDatabase.cs" Line="13" Column="1" />
+      <File FileName="../BLLayer/TestDataGenerator.cs" Line="1" Column="1" />
+      <File FileName="../BLLayer/Services/IService.cs" Line="1" Column="1" />
+      <File FileName="../BLLayer/Services/Service.cs" />
+      <File FileName="../BLLayer/Services/StudentService.cs" />
+      <File FileName="../BLLayer/MappingConfigurations/StudentProfile.cs" Line="1" Column="1" />
+      <File FileName="../BLLayer/MappingConfigurations/SubjectProfile.cs" Line="1" Column="1" />
+      <File FileName="../BLLayer/MappingConfigurations/UserProfile.cs" />
+      <File FileName="../BLLayer/Services/IUserService.cs" />
+      <File FileName="../BLLayer/Services/UserService.cs" />
+      <File FileName="../DALayer/Repositories/IUserRepository.cs" />
+      <File FileName="../DALayer/Repositories/UserRepository.cs" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="../BusinessEntities/Models/Student.cs" Line="21" Column="42" />
+      <File FileName="Controllers/GradeController.cs" Line="19" Column="19" />
+      <File FileName="../ModelDTOs/Models/StudentDTO.cs" Line="1" Column="1" />
+      <File FileName="../BLLayer/Services/GradeService.cs" Line="35" Column="81" />
+      <File FileName="Controllers/StudentController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MegaLTAPI1" expanded="True">
+            <Node name="BLLayer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="MappingConfigurations" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="BusinessEntities" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="DALayer" expanded="True">
+              <Node name="SeedDatabase.cs" selected="True" />
+            </Node>
+            <Node name="MegaLTAPI1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ModelDTOs" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

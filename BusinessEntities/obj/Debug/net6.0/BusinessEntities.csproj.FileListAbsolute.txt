@@ -1,0 +1,11 @@
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/bin/Debug/net6.0/BusinessEntities.deps.json
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/bin/Debug/net6.0/BusinessEntities.dll
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/bin/Debug/net6.0/BusinessEntities.pdb
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/BusinessEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/BusinessEntities.AssemblyInfoInputs.cache
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/BusinessEntities.AssemblyInfo.cs
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/BusinessEntities.csproj.CoreCompileInputs.cache
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/BusinessEntities.dll
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/refint/BusinessEntities.dll
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/BusinessEntities.pdb
+/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/Debug/net6.0/ref/BusinessEntities.dll
