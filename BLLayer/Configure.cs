@@ -28,8 +28,6 @@ namespace BLLayer
             {
                 options.UseSqlServer(configuration.GetConnectionString("Default"));
             });
-
-
         }
 	}
 }
