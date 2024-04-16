@@ -24,7 +24,7 @@ RUN dotnet publish "MegaLTAPI1/MegaLTAPI1.csproj" -c Release -o /app/publish /p:
 # Use the official .NET Core runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=build-env /app/publish .
 EXPOSE 80
 EXPOSE 443
 ENTRYPOINT ["dotnet", "MegaLTAPI1.dll"]
