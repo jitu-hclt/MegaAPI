@@ -2,8 +2,7 @@
 
 #FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 #WORKDIR /app
-EXPOSE 80
-EXPOSE 443
+
 
 #FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
@@ -26,4 +25,6 @@ RUN dotnet publish "MegaLTAPI1.csproj" -c Release -o /app/publish /p:UseAppHost=
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
 WORKDIR /app
 COPY --from=publish /app/publish .
+EXPOSE 80
+EXPOSE 443
 ENTRYPOINT ["dotnet", "MegaLTAPI1.dll"]
