@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wSjSXl4RmNqd3xDsUl3SRWwO1SbYF3F3FCvDEQ9i+jSqXeYvzTSiQq7jP5IbH3EYwpHGN8kPVeyPND1A4xy3pA==",
+  "dgSpecHash": "mifNuE3NTiSflxL154YqEIzBXtgfJi7KI+rxpYnzSPTwKId0rpKB0fosp/M8f2Xp8VCu7EZRpxR6UNqjMNtxFg==",
   "success": true,
-  "projectFilePath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj",
+  "projectFilePath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

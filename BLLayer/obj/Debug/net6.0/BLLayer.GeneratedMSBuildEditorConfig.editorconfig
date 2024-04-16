@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BLLayer
-build_property.ProjectDir = /Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/
+build_property.ProjectDir = /Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

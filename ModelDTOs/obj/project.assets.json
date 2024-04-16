@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj",
+      "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj",
       "projectName": "ModelDTOs",
-      "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj",
+      "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj",
       "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-      "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/",
+      "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"

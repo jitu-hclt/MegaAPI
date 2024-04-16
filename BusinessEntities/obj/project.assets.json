@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj",
+      "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj",
       "projectName": "BusinessEntities",
-      "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj",
+      "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj",
       "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-      "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/",
+      "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"

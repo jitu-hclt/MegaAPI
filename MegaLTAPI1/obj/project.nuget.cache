@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MqVlGdmLbbfKASrppYgyOHkXTOrM4HCgwedTxAHPnKC2o/Uyax95fm7D78xBygvfNdLFF23GSfsYr931V+HyMw==",
+  "dgSpecHash": "teeTra2RJ1SOA6gnIyBDD5cSccgHFZHq6yRoZNX67pATMdYrS9XEdzWeODtaaBJWNI7/tFf15T4BmviQYUXsPQ==",
   "success": true,
-  "projectFilePath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/MegaLTAPI1/MegaLTAPI1.csproj",
+  "projectFilePath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/MegaLTAPI1/MegaLTAPI1.csproj",
   "expectedPackageFiles": [
     "/Users/jitendrasharma/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/jitendrasharma/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -15,19 +15,19 @@ namespace BLLayer
 		{
 			services.AddScoped<IUnitOfWork, UnitOfWork>();
 
-            var keyVaultEndPoint = new Uri(configuration["VaultKey"]);
-            var secretClient = new SecretClient(keyVaultEndPoint, new DefaultAzureCredential());
-            KeyVaultSecret kvs = secretClient.GetSecret("megaltkey1");
-            services.AddDbContext<ApplicationDbContext>(options =>
-            {
-                options.UseSqlServer(kvs.Value);
-            });
-
-
+            //var keyVaultEndPoint = new Uri(configuration["VaultKey"]);
+            //var secretClient = new SecretClient(keyVaultEndPoint, new DefaultAzureCredential());
+            //KeyVaultSecret kvs = secretClient.GetSecret("megaltkey1");
             //services.AddDbContext<ApplicationDbContext>(options =>
             //{
-            //    options.UseSqlServer(configuration.GetConnectionString("Default"));
+            //    options.UseSqlServer(kvs.Value);
             //});
+
+
+            services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(configuration.GetConnectionString("Default"));
+            });
 
 
         }

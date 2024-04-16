@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w0OuziwYpu80sb79erCfAjFHtyGqHw1uBcGZVhO8PyUvo9kCNoLSm8URqjXgqKZ/Y+BdMMPrpJ9xxZ8rzgeKjw==",
+  "dgSpecHash": "j7dBwk6ydzRFQGQ2GAUfI4t3GetnQvKK4KXaI0PV5yHRnnrKABWAdPxClXzK8CgZ74QHQ+u5aZhX63Z1Fm8sKg==",
   "success": true,
-  "projectFilePath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj",
+  "projectFilePath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/MegaLTAPI1/MegaLTAPI1.csproj": {}
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/MegaLTAPI1/MegaLTAPI1.csproj": {}
   },
   "projects": {
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/BLLayer.csproj": {
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/BLLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/BLLayer.csproj",
+        "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/BLLayer.csproj",
         "projectName": "BLLayer",
-        "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/BLLayer.csproj",
+        "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/BLLayer.csproj",
         "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-        "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/obj/",
+        "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"
@@ -27,14 +27,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj": {
-                "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj"
+              "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj": {
+                "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj"
               },
-              "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj": {
-                "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj"
+              "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj": {
+                "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj"
               },
-              "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj": {
-                "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj"
+              "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj": {
+                "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj": {
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj",
+        "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj",
         "projectName": "BusinessEntities",
-        "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj",
+        "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj",
         "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-        "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/",
+        "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj": {
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj",
+        "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj",
         "projectName": "DALayer",
-        "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj",
+        "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj",
         "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-        "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/obj/",
+        "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"
@@ -159,8 +159,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj": {
-                "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj"
+              "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj": {
+                "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj"
               }
             }
           }
@@ -210,14 +210,14 @@
         }
       }
     },
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/MegaLTAPI1/MegaLTAPI1.csproj": {
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/MegaLTAPI1/MegaLTAPI1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/MegaLTAPI1/MegaLTAPI1.csproj",
+        "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/MegaLTAPI1/MegaLTAPI1.csproj",
         "projectName": "MegaLTAPI1",
-        "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/MegaLTAPI1/MegaLTAPI1.csproj",
+        "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/MegaLTAPI1/MegaLTAPI1.csproj",
         "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-        "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/MegaLTAPI1/obj/",
+        "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/MegaLTAPI1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"
@@ -233,11 +233,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/BLLayer.csproj": {
-                "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/BLLayer.csproj"
+              "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/BLLayer.csproj": {
+                "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/BLLayer.csproj"
               },
-              "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj": {
-                "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj"
+              "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj": {
+                "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj"
               }
             }
           }
@@ -292,14 +292,14 @@
         }
       }
     },
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj": {
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj",
+        "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj",
         "projectName": "ModelDTOs",
-        "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/ModelDTOs.csproj",
+        "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/ModelDTOs.csproj",
         "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-        "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/ModelDTOs/obj/",
+        "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/ModelDTOs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"

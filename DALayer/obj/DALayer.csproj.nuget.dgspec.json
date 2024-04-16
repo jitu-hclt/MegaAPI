@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj": {}
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj": {}
   },
   "projects": {
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj": {
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj",
+        "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj",
         "projectName": "BusinessEntities",
-        "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj",
+        "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj",
         "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-        "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/obj/",
+        "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"
@@ -58,14 +58,14 @@
         }
       }
     },
-    "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj": {
+    "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj",
+        "projectUniqueName": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj",
         "projectName": "DALayer",
-        "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/DALayer.csproj",
+        "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/DALayer.csproj",
         "packagesPath": "/Users/jitendrasharma/.nuget/packages/",
-        "outputPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/DALayer/obj/",
+        "outputPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/DALayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jitendrasharma/.nuget/NuGet/NuGet.Config"
@@ -81,8 +81,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj": {
-                "projectPath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BusinessEntities/BusinessEntities.csproj"
+              "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj": {
+                "projectPath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BusinessEntities/BusinessEntities.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fglHZ1VJugicp45SS4iOBN1dctSSz9J4F0R8Ba7R7j3IUTX83hQglqYruycYuBHYvlOhFtzf/22AZBoc/IBwOw==",
+  "dgSpecHash": "Tpb4BPEy4EiEYq2cH3rbzvd6JbpshTaZYGMwWcj1MstEuyw77UkcYvmSogX2HSHyari0ZdwLDk3oLK7Z2W9lUA==",
   "success": true,
-  "projectFilePath": "/Users/jitendrasharma/Library/CloudStorage/OneDrive-HCLTECHNOLOGIESLIMITED/Drive D/Projects2/BLLayer/BLLayer.csproj",
+  "projectFilePath": "/Users/jitendrasharma/Projects/azure-examples/MegaAPI/BLLayer/BLLayer.csproj",
   "expectedPackageFiles": [
     "/Users/jitendrasharma/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/jitendrasharma/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
