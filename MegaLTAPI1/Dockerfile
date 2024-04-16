@@ -15,9 +15,9 @@ COPY ["ModelDTOs/ModelDTOs.csproj", "../ModelDTOs/"]
 RUN dotnet restore "./MegaLTAPI1/MegaLTAPI1.csproj"
 COPY . .
 WORKDIR "/src/."
-RUN dotnet build "MegaLTAPI1/MegaLTAPI1.csproj" -c Release -o /app/build
+#RUN dotnet build "MegaLTAPI1/MegaLTAPI1.csproj" -c Release -o /app/build
 
-FROM build AS publish
+#FROM build AS publish
 RUN dotnet publish "MegaLTAPI1/MegaLTAPI1.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
 #FROM base AS final
