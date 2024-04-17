@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  megaltapi1:
-    image: ${DOCKER_REGISTRY-}megaltapi1
-    build:
-      context: .
-      dockerfile: ./Dockerfile

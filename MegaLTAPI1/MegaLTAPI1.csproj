@@ -25,6 +25,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Filters\" />
+    <None Remove="docker-compose.override.yml" />
+    <None Remove="Dockerfile" />
+    <None Remove="docker-compose.yml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Filters\" />
