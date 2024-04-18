@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MegaLTAPI1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+629ade51d15741de40a31704e22031642ed5abb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e47d0361b04722109bab78144a5859835108ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("MegaLTAPI1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MegaLTAPI1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
