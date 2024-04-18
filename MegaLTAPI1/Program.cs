@@ -76,7 +76,7 @@ builder.Services.AddAuthentication(defaultScheme:JwtBearerDefaults.Authenticatio
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new() { Title = "MegaLTAPI - Staged 2", Version = "v1" });
+    c.SwaggerDoc("v1", new() { Title = "MegaLTAPI - Staged 2", Version = "1.0" });
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         Description = "JWT Authorization header using the Bearer scheme. Put your token text below and click on Authorize.",
