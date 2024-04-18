@@ -52,6 +52,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'megaltapi'
-          slot-name: 'Production'
+          slot-name: 'staged'
           package: .
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E1705988D2C240D78DBBD65EE4A4C469 }}
